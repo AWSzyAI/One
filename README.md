@@ -1,3 +1,2 @@
 # One
-obsidian note all in one remote repository
-test
+if you are wondering which diction to begin with your sudden ideas, Open this repository and start your remote development.
